@@ -78,9 +78,9 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-      - family: LrishGrover
+      - family: IrishGrover
         fonts:
-          - asset: fonts/LrishGrover-Regular.ttf
+          - asset: fonts/IrishGrover-Regular.ttf
 
       - family: DancingScript
         fonts:

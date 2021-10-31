@@ -10,7 +10,7 @@ void main() {
         title: Text(
           'Dicee',
           style: TextStyle(
-            fontFamily: 'LrishGrover',
+            fontFamily: 'IrishGrover',
             fontWeight: FontWeight.w900,
             fontSize: 30,
           ),
