@@ -32,7 +32,6 @@ class imageGenerator extends StatefulWidget {
 
 class _imageGeneratorState extends State<imageGenerator> {
   int imageNumber = 1 ;
-
   void randomImageGenerator(){
      imageNumber = Random().nextInt(22) + 1;
   }
