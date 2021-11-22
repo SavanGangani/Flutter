@@ -3,11 +3,13 @@ import 'dart:math';
 
 void main() => runApp(
       MaterialApp(
+        debugShowCheckedModeBanner: false,
         home: BallPage(),
       ),
     );
 
 class BallPage extends StatelessWidget {
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
