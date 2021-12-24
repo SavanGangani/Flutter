@@ -1,16 +1,5 @@
 # magic_ball
 
-A new Flutter project.
+In this project one tab automatically generate Question and after tab you can seen answer in ball
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![magic ball](https://user-images.githubusercontent.com/88571731/147319839-a6b352e4-0db5-43f0-b726-dc5d959339d2.gif)
