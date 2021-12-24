@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/flutter_widget_sample/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_widget_sample/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_widget_sample/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ui_sample/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ui_sample/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ui_sample/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/magic_ball/build" />
+      <excludeFolder url="file://$MODULE_DIR$/magic_ball/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/magic_ball/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/image_generator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/image_generator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_generator/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>

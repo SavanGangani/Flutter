@@ -7,7 +7,7 @@ void main() {
     debugShowCheckedModeBanner: false,
     home: Scaffold(
       appBar: AppBar(
-        title: Text(
+        title: const Text(
           'Dicee',
           style: TextStyle(
             fontFamily: 'IrishGrover',
@@ -18,7 +18,7 @@ void main() {
         backgroundColor: Colors.blueGrey[600],
       ),
       backgroundColor: Colors.blueGrey.shade400,
-      body: DicePage(),
+      body: const DicePage(),
     ),
   ));
 }
