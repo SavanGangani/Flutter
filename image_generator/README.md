@@ -1,6 +1,6 @@
 # image_generator
 
-<h4>I have create Flutter Image Generator for practice purposes.You can see this widget sample with screenshot.</h4>
+<h4>I have create Flutter Image Generator for practice purposes.You can see this project video.</h4>
 <h4>Given project in Automatically Generat 22 photos.</h4>
 <h4>OnTab photo will be change.</h4>
 </br>
