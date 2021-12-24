@@ -19,14 +19,6 @@
 
 <h3>Navigator</h3>
 
-
-<br />
-<br />
-<br />
-<br />
-
-<h3>Navigator</h3>
-
 ![navigator](https://user-images.githubusercontent.com/88571731/147319063-778341fa-84bb-4547-a1b0-943dacfd10bf.gif)
 
 <br />
