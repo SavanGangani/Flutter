@@ -6,7 +6,7 @@ void main() => runApp(const Xylophone());
 class Xylophone extends StatelessWidget {
   const Xylophone({Key? key}) : super(key: key);
 
-  void SoundPlay(int soundNumber) {
+  void soundPlay(int soundNumber) {
     final play = AudioCache();
     play.play("note$soundNumber.wav");
   }
@@ -26,9 +26,9 @@ class Xylophone extends StatelessWidget {
                   color: Colors.red,
                   child: FlatButton(
                       onPressed: () {
-                        SoundPlay(1);
+                        soundPlay(1);
                       },
-                      child: Text("")),
+                      child: const Text("")),
                 ),
               ),
               Expanded(
@@ -36,9 +36,9 @@ class Xylophone extends StatelessWidget {
                   color: Colors.deepOrange,
                   child: FlatButton(
                       onPressed: () {
-                        SoundPlay(2);
+                        soundPlay(2);
                       },
-                      child: Text("")),
+                      child: const Text("")),
                 ),
               ),
               Expanded(
@@ -46,9 +46,9 @@ class Xylophone extends StatelessWidget {
                   color: Colors.yellow,
                   child: FlatButton(
                       onPressed: () {
-                        SoundPlay(3);
+                        soundPlay(3);
                       },
-                      child: Text("")),
+                      child: const Text("")),
                 ),
               ),
               Expanded(
@@ -56,9 +56,9 @@ class Xylophone extends StatelessWidget {
                   color: Colors.green,
                   child: FlatButton(
                       onPressed: () {
-                        SoundPlay(4);
+                        soundPlay(4);
                       },
-                      child: Text("")),
+                      child: const Text("")),
                 ),
               ),
               Expanded(
@@ -66,9 +66,9 @@ class Xylophone extends StatelessWidget {
                   color: Colors.tealAccent,
                   child: FlatButton(
                       onPressed: () {
-                        SoundPlay(5);
+                        soundPlay(5);
                       },
-                      child: Text("")),
+                      child: const Text("")),
                 ),
               ),
               Expanded(
@@ -76,9 +76,9 @@ class Xylophone extends StatelessWidget {
                   color: Colors.blue,
                   child: FlatButton(
                       onPressed: () {
-                        SoundPlay(6);
+                        soundPlay(6);
                       },
-                      child: Text("")),
+                      child: const Text("")),
                 ),
               ),
               Expanded(
@@ -86,9 +86,9 @@ class Xylophone extends StatelessWidget {
                   color: Colors.purple,
                   child: FlatButton(
                       onPressed: () {
-                        SoundPlay(7);
+                        soundPlay(7);
                       },
-                      child: Text("")),
+                      child: const Text("")),
                 ),
               ),
             ],
