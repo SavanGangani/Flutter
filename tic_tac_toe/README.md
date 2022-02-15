@@ -1,16 +1,18 @@
-# tic_tac_toe
+# Tic_Tac_Toe
 
-A new Flutter project.
+I have create TIC_TAC_TOE game in this game play two player.
+One player select O icon and onther is X. play one by one. if any player are win than that time display massage. and that time over game is over after restart.
 
-## Getting Started
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
-This project is a starting point for a Flutter application.
+![Tic_Tac_Toe](https://user-images.githubusercontent.com/88571731/154114187-e6657bff-4249-48c1-bed2-4de85c10982e.gif)
 
-A few resources to get you started if this is your first Flutter project:
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Video is sample play video this application.
